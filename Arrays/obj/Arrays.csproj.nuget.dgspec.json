@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\Arrays\\Arrays.csproj": {}
+    "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\Arrays\\Arrays.csproj": {
+    "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\Arrays\\Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\Arrays\\Arrays.csproj",
+        "projectPath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\Arrays\\Arrays.csproj",
         "packagesPath": "C:\\Users\\DanielPaiva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\Arrays\\obj\\",
+        "outputPath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DanielPaiva\\AppData\\Roaming\\NuGet\\NuGet.Config",

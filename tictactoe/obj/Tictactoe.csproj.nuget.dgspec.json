@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\tictactoe\\Tictactoe.csproj": {}
+    "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\tictactoe\\Tictactoe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\tictactoe\\Tictactoe.csproj": {
+    "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\tictactoe\\Tictactoe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\tictactoe\\Tictactoe.csproj",
+        "projectUniqueName": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\tictactoe\\Tictactoe.csproj",
         "projectName": "Tictactoe",
-        "projectPath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\tictactoe\\Tictactoe.csproj",
+        "projectPath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\tictactoe\\Tictactoe.csproj",
         "packagesPath": "C:\\Users\\DanielPaiva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\tictactoe\\obj\\",
+        "outputPath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\tictactoe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DanielPaiva\\AppData\\Roaming\\NuGet\\NuGet.Config",

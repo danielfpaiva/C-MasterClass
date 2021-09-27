@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\Loops\\Loops.csproj",
+      "projectUniqueName": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\Loops\\Loops.csproj",
       "projectName": "Loops",
-      "projectPath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\Loops\\Loops.csproj",
+      "projectPath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\Loops\\Loops.csproj",
       "packagesPath": "C:\\Users\\DanielPaiva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\Loops\\obj\\",
+      "outputPath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\Loops\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DanielPaiva\\AppData\\Roaming\\NuGet\\NuGet.Config",

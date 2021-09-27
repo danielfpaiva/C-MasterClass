@@ -1,0 +1,12 @@
+C:\Users\DanielPaiva\source\repos\C-MasterClass\JaggedArraysChallenge\bin\Debug\netcoreapp3.1\JaggedArraysChallenge.exe
+C:\Users\DanielPaiva\source\repos\C-MasterClass\JaggedArraysChallenge\bin\Debug\netcoreapp3.1\JaggedArraysChallenge.deps.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\JaggedArraysChallenge\bin\Debug\netcoreapp3.1\JaggedArraysChallenge.runtimeconfig.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\JaggedArraysChallenge\bin\Debug\netcoreapp3.1\JaggedArraysChallenge.runtimeconfig.dev.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\JaggedArraysChallenge\bin\Debug\netcoreapp3.1\JaggedArraysChallenge.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\JaggedArraysChallenge\bin\Debug\netcoreapp3.1\JaggedArraysChallenge.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\JaggedArraysChallenge\obj\Debug\netcoreapp3.1\JaggedArraysChallenge.AssemblyInfoInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\JaggedArraysChallenge\obj\Debug\netcoreapp3.1\JaggedArraysChallenge.AssemblyInfo.cs
+C:\Users\DanielPaiva\source\repos\C-MasterClass\JaggedArraysChallenge\obj\Debug\netcoreapp3.1\JaggedArraysChallenge.csproj.CoreCompileInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\JaggedArraysChallenge\obj\Debug\netcoreapp3.1\JaggedArraysChallenge.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\JaggedArraysChallenge\obj\Debug\netcoreapp3.1\JaggedArraysChallenge.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\JaggedArraysChallenge\obj\Debug\netcoreapp3.1\JaggedArraysChallenge.genruntimeconfig.cache

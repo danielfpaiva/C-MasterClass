@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\Course\\DataTypesAndDecisions.csproj",
+      "projectUniqueName": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\Course\\DataTypesAndDecisions.csproj",
       "projectName": "DataTypesAndDecisions",
-      "projectPath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\Course\\DataTypesAndDecisions.csproj",
+      "projectPath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\Course\\DataTypesAndDecisions.csproj",
       "packagesPath": "C:\\Users\\DanielPaiva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\Course\\obj\\",
+      "outputPath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\Course\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DanielPaiva\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\jaggedArrays\\jaggedArrays.csproj",
+      "projectUniqueName": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\jaggedArrays\\jaggedArrays.csproj",
       "projectName": "jaggedArrays",
-      "projectPath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\jaggedArrays\\jaggedArrays.csproj",
+      "projectPath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\jaggedArrays\\jaggedArrays.csproj",
       "packagesPath": "C:\\Users\\DanielPaiva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\jaggedArrays\\obj\\",
+      "outputPath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\jaggedArrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DanielPaiva\\AppData\\Roaming\\NuGet\\NuGet.Config",

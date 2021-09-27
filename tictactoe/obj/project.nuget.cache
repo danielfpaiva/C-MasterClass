@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1oiYkG4sJBudJJPljNTzIQW0bfQC2oPQ/j0TOE2gFYCX4/AGAVD3vFIR90AldQWDOSNQ5LEJkwt75tt9XIR80Q==",
+  "dgSpecHash": "D/Y9S0tUntAC7w1v6SYMx0fO28XwP0ZGgGbLesdlIL4ncyRsrW1PYhU+8e77fmwLtkEQeUhmY0Yjm1jU2ZBhjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\tictactoe\\Tictactoe.csproj",
+  "projectFilePath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\tictactoe\\Tictactoe.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

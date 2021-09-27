@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\_2DArrays\\_2DArrays.csproj": {}
+    "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\_2DArrays\\_2DArrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\_2DArrays\\_2DArrays.csproj": {
+    "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\_2DArrays\\_2DArrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\_2DArrays\\_2DArrays.csproj",
+        "projectUniqueName": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\_2DArrays\\_2DArrays.csproj",
         "projectName": "_2DArrays",
-        "projectPath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\_2DArrays\\_2DArrays.csproj",
+        "projectPath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\_2DArrays\\_2DArrays.csproj",
         "packagesPath": "C:\\Users\\DanielPaiva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\_2DArrays\\obj\\",
+        "outputPath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\_2DArrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DanielPaiva\\AppData\\Roaming\\NuGet\\NuGet.Config",

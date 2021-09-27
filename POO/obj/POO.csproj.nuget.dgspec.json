@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\POO\\POO.csproj": {}
+    "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\POO\\POO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\POO\\POO.csproj": {
+    "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\POO\\POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\POO\\POO.csproj",
+        "projectUniqueName": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\POO\\POO.csproj",
         "projectName": "POO",
-        "projectPath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\POO\\POO.csproj",
+        "projectPath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\POO\\POO.csproj",
         "packagesPath": "C:\\Users\\DanielPaiva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\POO\\obj\\",
+        "outputPath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\POO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DanielPaiva\\AppData\\Roaming\\NuGet\\NuGet.Config",

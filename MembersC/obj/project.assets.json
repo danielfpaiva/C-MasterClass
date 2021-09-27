@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\MembersC\\MembersC.csproj",
+      "projectUniqueName": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\MembersC\\MembersC.csproj",
       "projectName": "MembersC",
-      "projectPath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\MembersC\\MembersC.csproj",
+      "projectPath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\MembersC\\MembersC.csproj",
       "packagesPath": "C:\\Users\\DanielPaiva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\MembersC\\obj\\",
+      "outputPath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\MembersC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DanielPaiva\\AppData\\Roaming\\NuGet\\NuGet.Config",

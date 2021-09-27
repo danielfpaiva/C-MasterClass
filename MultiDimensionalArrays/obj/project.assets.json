@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\MultiDimensionalArrays\\MultiDimensionalArrays.csproj",
+      "projectUniqueName": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\MultiDimensionalArrays\\MultiDimensionalArrays.csproj",
       "projectName": "MultiDimensionalArrays",
-      "projectPath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\MultiDimensionalArrays\\MultiDimensionalArrays.csproj",
+      "projectPath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\MultiDimensionalArrays\\MultiDimensionalArrays.csproj",
       "packagesPath": "C:\\Users\\DanielPaiva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DanielPaiva\\Desktop\\Course\\Course\\MultiDimensionalArrays\\obj\\",
+      "outputPath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\MultiDimensionalArrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DanielPaiva\\AppData\\Roaming\\NuGet\\NuGet.Config",

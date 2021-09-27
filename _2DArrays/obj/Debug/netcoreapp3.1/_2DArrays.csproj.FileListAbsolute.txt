@@ -1,0 +1,13 @@
+C:\Users\DanielPaiva\Desktop\Course\Course\_2DArrays\bin\Debug\netcoreapp3.1\_2DArrays.exe
+C:\Users\DanielPaiva\Desktop\Course\Course\_2DArrays\bin\Debug\netcoreapp3.1\_2DArrays.deps.json
+C:\Users\DanielPaiva\Desktop\Course\Course\_2DArrays\bin\Debug\netcoreapp3.1\_2DArrays.runtimeconfig.json
+C:\Users\DanielPaiva\Desktop\Course\Course\_2DArrays\bin\Debug\netcoreapp3.1\_2DArrays.runtimeconfig.dev.json
+C:\Users\DanielPaiva\Desktop\Course\Course\_2DArrays\bin\Debug\netcoreapp3.1\_2DArrays.dll
+C:\Users\DanielPaiva\Desktop\Course\Course\_2DArrays\bin\Debug\netcoreapp3.1\_2DArrays.pdb
+C:\Users\DanielPaiva\Desktop\Course\Course\_2DArrays\obj\Debug\netcoreapp3.1\_2DArrays.AssemblyInfoInputs.cache
+C:\Users\DanielPaiva\Desktop\Course\Course\_2DArrays\obj\Debug\netcoreapp3.1\_2DArrays.AssemblyInfo.cs
+C:\Users\DanielPaiva\Desktop\Course\Course\_2DArrays\obj\Debug\netcoreapp3.1\_2DArrays.csproj.CoreCompileInputs.cache
+C:\Users\DanielPaiva\Desktop\Course\Course\_2DArrays\obj\Debug\netcoreapp3.1\_2DArrays.dll
+C:\Users\DanielPaiva\Desktop\Course\Course\_2DArrays\obj\Debug\netcoreapp3.1\_2DArrays.pdb
+C:\Users\DanielPaiva\Desktop\Course\Course\_2DArrays\obj\Debug\netcoreapp3.1\_2DArrays.genruntimeconfig.cache
+C:\Users\DanielPaiva\Desktop\Course\Course\_2DArrays\obj\Debug\netcoreapp3.1\_2DArrays.csproj.AssemblyReference.cache

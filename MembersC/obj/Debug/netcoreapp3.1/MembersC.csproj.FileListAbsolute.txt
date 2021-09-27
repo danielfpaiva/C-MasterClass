@@ -1,0 +1,13 @@
+C:\Users\DanielPaiva\Desktop\Course\Course\MembersC\bin\Debug\netcoreapp3.1\MembersC.exe
+C:\Users\DanielPaiva\Desktop\Course\Course\MembersC\bin\Debug\netcoreapp3.1\MembersC.deps.json
+C:\Users\DanielPaiva\Desktop\Course\Course\MembersC\bin\Debug\netcoreapp3.1\MembersC.runtimeconfig.json
+C:\Users\DanielPaiva\Desktop\Course\Course\MembersC\bin\Debug\netcoreapp3.1\MembersC.runtimeconfig.dev.json
+C:\Users\DanielPaiva\Desktop\Course\Course\MembersC\bin\Debug\netcoreapp3.1\MembersC.dll
+C:\Users\DanielPaiva\Desktop\Course\Course\MembersC\bin\Debug\netcoreapp3.1\MembersC.pdb
+C:\Users\DanielPaiva\Desktop\Course\Course\MembersC\obj\Debug\netcoreapp3.1\MembersC.csproj.AssemblyReference.cache
+C:\Users\DanielPaiva\Desktop\Course\Course\MembersC\obj\Debug\netcoreapp3.1\MembersC.AssemblyInfoInputs.cache
+C:\Users\DanielPaiva\Desktop\Course\Course\MembersC\obj\Debug\netcoreapp3.1\MembersC.AssemblyInfo.cs
+C:\Users\DanielPaiva\Desktop\Course\Course\MembersC\obj\Debug\netcoreapp3.1\MembersC.csproj.CoreCompileInputs.cache
+C:\Users\DanielPaiva\Desktop\Course\Course\MembersC\obj\Debug\netcoreapp3.1\MembersC.dll
+C:\Users\DanielPaiva\Desktop\Course\Course\MembersC\obj\Debug\netcoreapp3.1\MembersC.pdb
+C:\Users\DanielPaiva\Desktop\Course\Course\MembersC\obj\Debug\netcoreapp3.1\MembersC.genruntimeconfig.cache

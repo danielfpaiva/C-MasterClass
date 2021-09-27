@@ -1,0 +1,4 @@
+C:\Users\DanielPaiva\Desktop\Course\Course\Course\obj\Debug\netcoreapp3.1\DataTypesAndDecisions.AssemblyInfoInputs.cache
+C:\Users\DanielPaiva\Desktop\Course\Course\Course\obj\Debug\netcoreapp3.1\DataTypesAndDecisions.AssemblyInfo.cs
+C:\Users\DanielPaiva\Desktop\Course\Course\Course\obj\Debug\netcoreapp3.1\DataTypesAndDecisions.csproj.CoreCompileInputs.cache
+C:\Users\DanielPaiva\Desktop\Course\Course\Course\obj\Debug\netcoreapp3.1\DataTypesAndDecisions.csproj.AssemblyReference.cache

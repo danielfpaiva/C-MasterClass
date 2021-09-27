@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jaggedArrays", "jaggedArray
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArraysChallenge", "JaggedArraysChallenge\JaggedArraysChallenge.csproj", "{B6567483-2546-41E8-A9B9-F0CBFCE9A385}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAsParameters", "ArraysAsParameters\ArraysAsParameters.csproj", "{BC97F5DF-AE74-4D2C-9197-BA621454D9F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{B6567483-2546-41E8-A9B9-F0CBFCE9A385}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6567483-2546-41E8-A9B9-F0CBFCE9A385}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6567483-2546-41E8-A9B9-F0CBFCE9A385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC97F5DF-AE74-4D2C-9197-BA621454D9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC97F5DF-AE74-4D2C-9197-BA621454D9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC97F5DF-AE74-4D2C-9197-BA621454D9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC97F5DF-AE74-4D2C-9197-BA621454D9F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

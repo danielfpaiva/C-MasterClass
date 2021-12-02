@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0eKVgBrsAMCcd5WaZnjh7hbfbXZrbNEFpaM7v6IwTbq6hqBGAmrC3cb9ATyGSUf4JP7qU+kb+/EC2rYGkysQHA==",
+  "dgSpecHash": "/BiHXpYEtwLbxX562AAd1uNYF4EDxbLkD/zL4plncvAKjSQVfr+JjLJYSgdSIMilepXBZITDW3CTsJomXpQ5Kw==",
   "success": true,
   "projectFilePath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\MultiDimensionalArrays\\MultiDimensionalArrays.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielPaiva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

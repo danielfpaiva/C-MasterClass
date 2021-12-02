@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ajG5+K7N87MQ3s4DVn8pzfsGZYFgmryFB5e/ANCaMAgnZMiz/Oa77EhfQjDFE92gvnTZmp6vN5jwQwsHT8wTJQ==",
+  "dgSpecHash": "zRlB5nc68ui4+zP6i9b7R+rH60+xN9CatppvFB3mKMTRB1eCBTeeT8JooDcKHDsL4REzBdh54cPvoELiHd5ryg==",
   "success": true,
   "projectFilePath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\HashTables\\HashTables.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielPaiva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

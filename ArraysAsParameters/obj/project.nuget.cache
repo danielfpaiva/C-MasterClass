@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FpilXmxvyvUpAOP/78vuiLzXlDAwOFWM3+HN5IsbLVGkoYPHCmfMOMRXRF7+AKuqMNeBOl4eye98HcNxAxej/Q==",
+  "dgSpecHash": "E5TpyoCOxjEJ0Xii4bcxMHNHHYgf29RwoupBYXpLjJ113Y7u43R7TxdeHge27eAwusLSKMEB4AjTcUu64zuEVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\ArraysAsParameters\\ArraysAsParameters.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielPaiva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

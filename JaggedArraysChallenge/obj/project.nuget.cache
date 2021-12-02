@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mv+QQMuTdv4XX/he8/btc7Ko3BvOCN8fC36prLVf8ho2I4Y6+5iUoKbgSYSTlPtvpaxcrhfa5wqehZUSnZyP6g==",
+  "dgSpecHash": "L1Ks01drOvTiuBJv5jakXKxV7gH3H8Us3VwbX0llIpjVOZc9eIu3aqzIwgBfBD9aP3xVRttTfFxcPTKhJad/HQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\JaggedArraysChallenge\\JaggedArraysChallenge.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielPaiva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

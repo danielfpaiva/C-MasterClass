@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jIJUz8U1AX1XK9tOYEYTkxpYl0ykhBytZmiAp00HPsMXJZYMq1TZRP/mRXjdHfs0Pp6KUAwpU/eba56j9jPN6A==",
+  "dgSpecHash": "Ygvfn7W4uFgvgSOGGNg6gY369diw2GGLNtM2hCmwu5344WF+JGLf56ninjqGmuo4Q12TurY0tfpVeKuvRCoNgQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\ParamsKeyword\\ParamsKeyword.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielPaiva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

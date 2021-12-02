@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SN9TNeqeRcKLvafqvDBWlF62+eEkPjTAQ+se8UDwdSCYjL/LzZetMAnh0ASJoMtGR79MWjenKozVxnXEq3fnLQ==",
+  "dgSpecHash": "SGeEGT9p9UX6lgjkuS0RXj6k1LZIqAfwQ7JkiqkFsjk2ueH7uuQETm1+CA4Ms7Aqie3mxtEQntDOWoNN3FyAnA==",
   "success": true,
   "projectFilePath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\Loops\\Loops.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielPaiva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

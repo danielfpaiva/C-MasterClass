@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "D/Y9S0tUntAC7w1v6SYMx0fO28XwP0ZGgGbLesdlIL4ncyRsrW1PYhU+8e77fmwLtkEQeUhmY0Yjm1jU2ZBhjg==",
+  "dgSpecHash": "KVKcNBjiWZZKNV2v/iwWk5WThebYVo7JqFUCx3DaPtSUQxe0LPT4qNVxBUwemNDYs6zMeFOqjCQRnXG02vL+pQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\tictactoe\\Tictactoe.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielPaiva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

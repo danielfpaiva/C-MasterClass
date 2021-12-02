@@ -1,0 +1,12 @@
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.exe
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.deps.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.runtimeconfig.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.runtimeconfig.dev.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.AssemblyInfo.cs
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.genruntimeconfig.cache

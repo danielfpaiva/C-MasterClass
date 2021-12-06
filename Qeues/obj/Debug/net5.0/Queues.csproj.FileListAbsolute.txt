@@ -1,0 +1,16 @@
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Qeues\bin\Debug\net5.0\Queues.exe
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Qeues\bin\Debug\net5.0\Queues.deps.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Qeues\bin\Debug\net5.0\Queues.runtimeconfig.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Qeues\bin\Debug\net5.0\Queues.runtimeconfig.dev.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Qeues\bin\Debug\net5.0\Queues.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Qeues\bin\Debug\net5.0\ref\Queues.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Qeues\bin\Debug\net5.0\Queues.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Qeues\obj\Debug\net5.0\Queues.csproj.AssemblyReference.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Qeues\obj\Debug\net5.0\Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Qeues\obj\Debug\net5.0\Queues.AssemblyInfoInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Qeues\obj\Debug\net5.0\Queues.AssemblyInfo.cs
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Qeues\obj\Debug\net5.0\Queues.csproj.CoreCompileInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Qeues\obj\Debug\net5.0\Queues.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Qeues\obj\Debug\net5.0\ref\Queues.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Qeues\obj\Debug\net5.0\Queues.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Qeues\obj\Debug\net5.0\Queues.genruntimeconfig.cache

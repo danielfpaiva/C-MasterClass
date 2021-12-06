@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oXr9jXpO3dHuK2xw/aqWfMZnD4Y7kA7OTJKXcdVV7Zs03NRm8mSWC0NZTzXKGEk3lEXPHwV6FVycRFoBPsVMUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DanielPaiva\\source\\repos\\C-MasterClass\\Qeues\\Queues.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielPaiva\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

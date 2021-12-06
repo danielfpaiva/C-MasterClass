@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31313.79
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypesAndDecisions", "Course\DataTypesAndDecisions.csproj", "{884B5E3B-C151-4921-B4FC-78C8C251BC85}"
 EndProject
@@ -31,11 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParamsKeyword", "ParamsKeyw
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayList", "GenericAndNonGenericCollections\ArrayList.csproj", "{14F58A57-2171-4612-B082-7DD22409FFDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{E79D3D63-9128-4FBE-83C2-5F68B5FA1523}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lists", "Lists\Lists.csproj", "{E79D3D63-9128-4FBE-83C2-5F68B5FA1523}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTables", "HashTables\HashTables.csproj", "{BF6B3584-F97B-40B5-B92A-060472EF54E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTables", "HashTables\HashTables.csproj", "{BF6B3584-F97B-40B5-B92A-060472EF54E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Dictionaries\Dictionaries.csproj", "{ED550C2B-6AF0-4E1F-BE07-62C0F4E07456}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionaries", "Dictionaries\Dictionaries.csproj", "{ED550C2B-6AF0-4E1F-BE07-62C0F4E07456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks", "Stacks\Stacks.csproj", "{5843D0AF-B490-4BC5-8437-82E5EF7971B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{ED550C2B-6AF0-4E1F-BE07-62C0F4E07456}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED550C2B-6AF0-4E1F-BE07-62C0F4E07456}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED550C2B-6AF0-4E1F-BE07-62C0F4E07456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5843D0AF-B490-4BC5-8437-82E5EF7971B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5843D0AF-B490-4BC5-8437-82E5EF7971B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5843D0AF-B490-4BC5-8437-82E5EF7971B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5843D0AF-B490-4BC5-8437-82E5EF7971B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

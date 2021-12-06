@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace ArrayListC
+namespace ArrayList
 {
     class Program
     {
@@ -35,10 +35,12 @@ namespace ArrayListC
                 if (obj is int)
                 {
                     sum += Convert.ToDouble(obj);
-                } else if (obj is double @double)
+                }
+                else if (obj is double @double)
                 {
                     sum += @double;
-                } else if (obj is string)
+                }
+                else if (obj is string)
                 {
                     Console.WriteLine(obj);
                 }

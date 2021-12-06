@@ -10,3 +10,5 @@ C:\Users\DanielPaiva\source\repos\C-MasterClass\Dictionaries\obj\Debug\netcoreap
 C:\Users\DanielPaiva\source\repos\C-MasterClass\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.dll
 C:\Users\DanielPaiva\source\repos\C-MasterClass\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.pdb
 C:\Users\DanielPaiva\source\repos\C-MasterClass\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.genruntimeconfig.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.csproj.AssemblyReference.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig

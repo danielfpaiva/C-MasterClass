@@ -33,6 +33,29 @@ namespace Dictionaries
                 employeesDictionary.Add(emp.Role, emp);
             }
 
+            // Update
+            string keyToUpdate = "HR";
+
+            if (employeesDictionary.ContainsKey(keyToUpdate))
+            {
+                employeesDictionary[keyToUpdate] = new Employee("HR", "Eleka", 26, 18);
+                Console.WriteLine("Emplyoee with Role/Key {0} was updated!",keyToUpdate);
+            } else
+            {
+                Console.WriteLine("No emplyoee found with Role/Key {0}!", keyToUpdate);
+            }
+
+            // Remove
+            string KeyToRemove = "Intern";
+
+            if (employeesDictionary.Remove(KeyToRemove))
+            {
+                Console.WriteLine("Employees with Role/Key {0} were removed.", KeyToRemove);
+            } else
+            {
+                Console.WriteLine("No emplyoee found with Role/Key {0}!", KeyToRemove);
+            }
+
             for (int i = 0; i<employeesDictionary.Count; i++)
             {
                 // using ElementAt(i) to return key-value pair started at index 1
@@ -57,9 +80,6 @@ namespace Dictionaries
             {
                 Console.WriteLine("No employees were found with this Key {0}", key);
             }
-
-            
-
         }
     }
 

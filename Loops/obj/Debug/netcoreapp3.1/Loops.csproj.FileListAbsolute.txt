@@ -11,3 +11,16 @@ C:\Users\DanielPaiva\Desktop\Course\Course\Loops\obj\Debug\netcoreapp3.1\Loops.d
 C:\Users\DanielPaiva\Desktop\Course\Course\Loops\obj\Debug\netcoreapp3.1\Loops.pdb
 C:\Users\DanielPaiva\Desktop\Course\Course\Loops\obj\Debug\netcoreapp3.1\Loops.genruntimeconfig.cache
 C:\Users\DanielPaiva\Desktop\Course\Course\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.AssemblyReference.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Loops\bin\Debug\netcoreapp3.1\Loops.exe
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Loops\bin\Debug\netcoreapp3.1\Loops.deps.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.dev.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Loops\bin\Debug\netcoreapp3.1\Loops.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Loops\bin\Debug\netcoreapp3.1\Loops.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Loops\obj\Debug\netcoreapp3.1\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfoInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfo.cs
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.CoreCompileInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Loops\obj\Debug\netcoreapp3.1\Loops.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Loops\obj\Debug\netcoreapp3.1\Loops.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Loops\obj\Debug\netcoreapp3.1\Loops.genruntimeconfig.cache

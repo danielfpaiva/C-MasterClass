@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace ArrayList
+namespace ArrayList1
 {
     class Program
     {

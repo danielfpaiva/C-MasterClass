@@ -4,10 +4,10 @@ C:\Users\DanielPaiva\source\repos\C-MasterClass\Lists\bin\Debug\netcoreapp3.1\Li
 C:\Users\DanielPaiva\source\repos\C-MasterClass\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.dev.json
 C:\Users\DanielPaiva\source\repos\C-MasterClass\Lists\bin\Debug\netcoreapp3.1\Lists.dll
 C:\Users\DanielPaiva\source\repos\C-MasterClass\Lists\bin\Debug\netcoreapp3.1\Lists.pdb
-C:\Users\DanielPaiva\source\repos\C-MasterClass\Lists\obj\Debug\netcoreapp3.1\Lists.csproj.AssemblyReference.cache
 C:\Users\DanielPaiva\source\repos\C-MasterClass\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfoInputs.cache
 C:\Users\DanielPaiva\source\repos\C-MasterClass\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfo.cs
 C:\Users\DanielPaiva\source\repos\C-MasterClass\Lists\obj\Debug\netcoreapp3.1\Lists.csproj.CoreCompileInputs.cache
 C:\Users\DanielPaiva\source\repos\C-MasterClass\Lists\obj\Debug\netcoreapp3.1\Lists.dll
 C:\Users\DanielPaiva\source\repos\C-MasterClass\Lists\obj\Debug\netcoreapp3.1\Lists.pdb
 C:\Users\DanielPaiva\source\repos\C-MasterClass\Lists\obj\Debug\netcoreapp3.1\Lists.genruntimeconfig.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Lists\obj\Debug\netcoreapp3.1\Lists.GeneratedMSBuildEditorConfig.editorconfig

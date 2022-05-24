@@ -2,3 +2,16 @@ C:\Users\DanielPaiva\Desktop\Course\Course\Course\obj\Debug\netcoreapp3.1\DataTy
 C:\Users\DanielPaiva\Desktop\Course\Course\Course\obj\Debug\netcoreapp3.1\DataTypesAndDecisions.AssemblyInfo.cs
 C:\Users\DanielPaiva\Desktop\Course\Course\Course\obj\Debug\netcoreapp3.1\DataTypesAndDecisions.csproj.CoreCompileInputs.cache
 C:\Users\DanielPaiva\Desktop\Course\Course\Course\obj\Debug\netcoreapp3.1\DataTypesAndDecisions.csproj.AssemblyReference.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Course\obj\Debug\netcoreapp3.1\DataTypesAndDecisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Course\obj\Debug\netcoreapp3.1\DataTypesAndDecisions.AssemblyInfoInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Course\obj\Debug\netcoreapp3.1\DataTypesAndDecisions.AssemblyInfo.cs
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Course\obj\Debug\netcoreapp3.1\DataTypesAndDecisions.csproj.CoreCompileInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Course\bin\Debug\netcoreapp3.1\DataTypesAndDecisions.exe
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Course\bin\Debug\netcoreapp3.1\DataTypesAndDecisions.deps.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Course\bin\Debug\netcoreapp3.1\DataTypesAndDecisions.runtimeconfig.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Course\bin\Debug\netcoreapp3.1\DataTypesAndDecisions.runtimeconfig.dev.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Course\bin\Debug\netcoreapp3.1\DataTypesAndDecisions.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Course\bin\Debug\netcoreapp3.1\DataTypesAndDecisions.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Course\obj\Debug\netcoreapp3.1\DataTypesAndDecisions.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Course\obj\Debug\netcoreapp3.1\DataTypesAndDecisions.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Course\obj\Debug\netcoreapp3.1\DataTypesAndDecisions.genruntimeconfig.cache

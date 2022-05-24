@@ -11,3 +11,16 @@ C:\Users\DanielPaiva\Desktop\Course\Course\_2DArrays\obj\Debug\netcoreapp3.1\_2D
 C:\Users\DanielPaiva\Desktop\Course\Course\_2DArrays\obj\Debug\netcoreapp3.1\_2DArrays.pdb
 C:\Users\DanielPaiva\Desktop\Course\Course\_2DArrays\obj\Debug\netcoreapp3.1\_2DArrays.genruntimeconfig.cache
 C:\Users\DanielPaiva\Desktop\Course\Course\_2DArrays\obj\Debug\netcoreapp3.1\_2DArrays.csproj.AssemblyReference.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\_2DArrays\bin\Debug\netcoreapp3.1\_2DArrays.exe
+C:\Users\DanielPaiva\source\repos\C-MasterClass\_2DArrays\bin\Debug\netcoreapp3.1\_2DArrays.deps.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\_2DArrays\bin\Debug\netcoreapp3.1\_2DArrays.runtimeconfig.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\_2DArrays\bin\Debug\netcoreapp3.1\_2DArrays.runtimeconfig.dev.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\_2DArrays\bin\Debug\netcoreapp3.1\_2DArrays.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\_2DArrays\bin\Debug\netcoreapp3.1\_2DArrays.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\_2DArrays\obj\Debug\netcoreapp3.1\_2DArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielPaiva\source\repos\C-MasterClass\_2DArrays\obj\Debug\netcoreapp3.1\_2DArrays.AssemblyInfoInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\_2DArrays\obj\Debug\netcoreapp3.1\_2DArrays.AssemblyInfo.cs
+C:\Users\DanielPaiva\source\repos\C-MasterClass\_2DArrays\obj\Debug\netcoreapp3.1\_2DArrays.csproj.CoreCompileInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\_2DArrays\obj\Debug\netcoreapp3.1\_2DArrays.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\_2DArrays\obj\Debug\netcoreapp3.1\_2DArrays.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\_2DArrays\obj\Debug\netcoreapp3.1\_2DArrays.genruntimeconfig.cache

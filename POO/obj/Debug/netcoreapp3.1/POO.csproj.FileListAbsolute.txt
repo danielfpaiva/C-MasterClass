@@ -10,3 +10,16 @@ C:\Users\DanielPaiva\Desktop\Course\Course\POO\obj\Debug\netcoreapp3.1\POO.cspro
 C:\Users\DanielPaiva\Desktop\Course\Course\POO\obj\Debug\netcoreapp3.1\POO.dll
 C:\Users\DanielPaiva\Desktop\Course\Course\POO\obj\Debug\netcoreapp3.1\POO.pdb
 C:\Users\DanielPaiva\Desktop\Course\Course\POO\obj\Debug\netcoreapp3.1\POO.genruntimeconfig.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\POO\bin\Debug\netcoreapp3.1\POO.exe
+C:\Users\DanielPaiva\source\repos\C-MasterClass\POO\bin\Debug\netcoreapp3.1\POO.deps.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\POO\bin\Debug\netcoreapp3.1\POO.runtimeconfig.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\POO\bin\Debug\netcoreapp3.1\POO.runtimeconfig.dev.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\POO\bin\Debug\netcoreapp3.1\POO.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\POO\bin\Debug\netcoreapp3.1\POO.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\POO\obj\Debug\netcoreapp3.1\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielPaiva\source\repos\C-MasterClass\POO\obj\Debug\netcoreapp3.1\POO.AssemblyInfoInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\POO\obj\Debug\netcoreapp3.1\POO.AssemblyInfo.cs
+C:\Users\DanielPaiva\source\repos\C-MasterClass\POO\obj\Debug\netcoreapp3.1\POO.csproj.CoreCompileInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\POO\obj\Debug\netcoreapp3.1\POO.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\POO\obj\Debug\netcoreapp3.1\POO.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\POO\obj\Debug\netcoreapp3.1\POO.genruntimeconfig.cache

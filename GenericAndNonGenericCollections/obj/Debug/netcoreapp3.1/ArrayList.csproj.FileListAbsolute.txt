@@ -4,10 +4,10 @@ C:\Users\DanielPaiva\source\repos\C-MasterClass\GenericAndNonGenericCollections\
 C:\Users\DanielPaiva\source\repos\C-MasterClass\GenericAndNonGenericCollections\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.dev.json
 C:\Users\DanielPaiva\source\repos\C-MasterClass\GenericAndNonGenericCollections\bin\Debug\netcoreapp3.1\ArrayList.dll
 C:\Users\DanielPaiva\source\repos\C-MasterClass\GenericAndNonGenericCollections\bin\Debug\netcoreapp3.1\ArrayList.pdb
-C:\Users\DanielPaiva\source\repos\C-MasterClass\GenericAndNonGenericCollections\obj\Debug\netcoreapp3.1\ArrayList.csproj.AssemblyReference.cache
 C:\Users\DanielPaiva\source\repos\C-MasterClass\GenericAndNonGenericCollections\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfoInputs.cache
 C:\Users\DanielPaiva\source\repos\C-MasterClass\GenericAndNonGenericCollections\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfo.cs
 C:\Users\DanielPaiva\source\repos\C-MasterClass\GenericAndNonGenericCollections\obj\Debug\netcoreapp3.1\ArrayList.csproj.CoreCompileInputs.cache
 C:\Users\DanielPaiva\source\repos\C-MasterClass\GenericAndNonGenericCollections\obj\Debug\netcoreapp3.1\ArrayList.dll
 C:\Users\DanielPaiva\source\repos\C-MasterClass\GenericAndNonGenericCollections\obj\Debug\netcoreapp3.1\ArrayList.pdb
 C:\Users\DanielPaiva\source\repos\C-MasterClass\GenericAndNonGenericCollections\obj\Debug\netcoreapp3.1\ArrayList.genruntimeconfig.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\GenericAndNonGenericCollections\obj\Debug\netcoreapp3.1\ArrayList.GeneratedMSBuildEditorConfig.editorconfig

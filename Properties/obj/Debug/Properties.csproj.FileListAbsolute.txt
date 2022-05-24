@@ -5,3 +5,11 @@ C:\Users\DanielPaiva\Desktop\Course\Course\Properties\obj\Debug\Properties.cspro
 C:\Users\DanielPaiva\Desktop\Course\Course\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
 C:\Users\DanielPaiva\Desktop\Course\Course\Properties\obj\Debug\Properties.exe
 C:\Users\DanielPaiva\Desktop\Course\Course\Properties\obj\Debug\Properties.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Properties\bin\Debug\Properties.exe.config
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Properties\bin\Debug\Properties.exe
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Properties\bin\Debug\Properties.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Properties\obj\Debug\Properties.csproj.SuggestedBindingRedirects.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Properties\obj\Debug\Properties.exe
+C:\Users\DanielPaiva\source\repos\C-MasterClass\Properties\obj\Debug\Properties.pdb

@@ -4,10 +4,10 @@ C:\Users\DanielPaiva\source\repos\C-MasterClass\HashTables\bin\Debug\netcoreapp3
 C:\Users\DanielPaiva\source\repos\C-MasterClass\HashTables\bin\Debug\netcoreapp3.1\HashTables.runtimeconfig.dev.json
 C:\Users\DanielPaiva\source\repos\C-MasterClass\HashTables\bin\Debug\netcoreapp3.1\HashTables.dll
 C:\Users\DanielPaiva\source\repos\C-MasterClass\HashTables\bin\Debug\netcoreapp3.1\HashTables.pdb
-C:\Users\DanielPaiva\source\repos\C-MasterClass\HashTables\obj\Debug\netcoreapp3.1\HashTables.csproj.AssemblyReference.cache
 C:\Users\DanielPaiva\source\repos\C-MasterClass\HashTables\obj\Debug\netcoreapp3.1\HashTables.AssemblyInfoInputs.cache
 C:\Users\DanielPaiva\source\repos\C-MasterClass\HashTables\obj\Debug\netcoreapp3.1\HashTables.AssemblyInfo.cs
 C:\Users\DanielPaiva\source\repos\C-MasterClass\HashTables\obj\Debug\netcoreapp3.1\HashTables.csproj.CoreCompileInputs.cache
 C:\Users\DanielPaiva\source\repos\C-MasterClass\HashTables\obj\Debug\netcoreapp3.1\HashTables.dll
 C:\Users\DanielPaiva\source\repos\C-MasterClass\HashTables\obj\Debug\netcoreapp3.1\HashTables.pdb
 C:\Users\DanielPaiva\source\repos\C-MasterClass\HashTables\obj\Debug\netcoreapp3.1\HashTables.genruntimeconfig.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\HashTables\obj\Debug\netcoreapp3.1\HashTables.GeneratedMSBuildEditorConfig.editorconfig

@@ -11,3 +11,16 @@ C:\Users\DanielPaiva\Desktop\Course\Course\tictactoe\obj\Debug\netcoreapp3.1\Tic
 C:\Users\DanielPaiva\Desktop\Course\Course\tictactoe\obj\Debug\netcoreapp3.1\Tictactoe.pdb
 C:\Users\DanielPaiva\Desktop\Course\Course\tictactoe\obj\Debug\netcoreapp3.1\Tictactoe.genruntimeconfig.cache
 C:\Users\DanielPaiva\Desktop\Course\Course\tictactoe\obj\Debug\netcoreapp3.1\Tictactoe.csproj.AssemblyReference.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\tictactoe\bin\Debug\netcoreapp3.1\Tictactoe.exe
+C:\Users\DanielPaiva\source\repos\C-MasterClass\tictactoe\bin\Debug\netcoreapp3.1\Tictactoe.deps.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\tictactoe\bin\Debug\netcoreapp3.1\Tictactoe.runtimeconfig.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\tictactoe\bin\Debug\netcoreapp3.1\Tictactoe.runtimeconfig.dev.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\tictactoe\bin\Debug\netcoreapp3.1\Tictactoe.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\tictactoe\bin\Debug\netcoreapp3.1\Tictactoe.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\tictactoe\obj\Debug\netcoreapp3.1\Tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielPaiva\source\repos\C-MasterClass\tictactoe\obj\Debug\netcoreapp3.1\Tictactoe.AssemblyInfoInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\tictactoe\obj\Debug\netcoreapp3.1\Tictactoe.AssemblyInfo.cs
+C:\Users\DanielPaiva\source\repos\C-MasterClass\tictactoe\obj\Debug\netcoreapp3.1\Tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\tictactoe\obj\Debug\netcoreapp3.1\Tictactoe.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\tictactoe\obj\Debug\netcoreapp3.1\Tictactoe.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\tictactoe\obj\Debug\netcoreapp3.1\Tictactoe.genruntimeconfig.cache

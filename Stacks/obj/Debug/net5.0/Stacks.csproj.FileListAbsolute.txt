@@ -5,7 +5,6 @@ C:\Users\DanielPaiva\source\repos\C-MasterClass\Stacks\bin\Debug\net5.0\Stacks.r
 C:\Users\DanielPaiva\source\repos\C-MasterClass\Stacks\bin\Debug\net5.0\Stacks.dll
 C:\Users\DanielPaiva\source\repos\C-MasterClass\Stacks\bin\Debug\net5.0\ref\Stacks.dll
 C:\Users\DanielPaiva\source\repos\C-MasterClass\Stacks\bin\Debug\net5.0\Stacks.pdb
-C:\Users\DanielPaiva\source\repos\C-MasterClass\Stacks\obj\Debug\net5.0\Stacks.csproj.AssemblyReference.cache
 C:\Users\DanielPaiva\source\repos\C-MasterClass\Stacks\obj\Debug\net5.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\DanielPaiva\source\repos\C-MasterClass\Stacks\obj\Debug\net5.0\Stacks.AssemblyInfoInputs.cache
 C:\Users\DanielPaiva\source\repos\C-MasterClass\Stacks\obj\Debug\net5.0\Stacks.AssemblyInfo.cs

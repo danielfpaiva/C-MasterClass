@@ -11,3 +11,16 @@ C:\Users\DanielPaiva\Desktop\Course\Course\MembersC\obj\Debug\netcoreapp3.1\Memb
 C:\Users\DanielPaiva\Desktop\Course\Course\MembersC\obj\Debug\netcoreapp3.1\MembersC.dll
 C:\Users\DanielPaiva\Desktop\Course\Course\MembersC\obj\Debug\netcoreapp3.1\MembersC.pdb
 C:\Users\DanielPaiva\Desktop\Course\Course\MembersC\obj\Debug\netcoreapp3.1\MembersC.genruntimeconfig.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\MembersC\bin\Debug\netcoreapp3.1\MembersC.exe
+C:\Users\DanielPaiva\source\repos\C-MasterClass\MembersC\bin\Debug\netcoreapp3.1\MembersC.deps.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\MembersC\bin\Debug\netcoreapp3.1\MembersC.runtimeconfig.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\MembersC\bin\Debug\netcoreapp3.1\MembersC.runtimeconfig.dev.json
+C:\Users\DanielPaiva\source\repos\C-MasterClass\MembersC\bin\Debug\netcoreapp3.1\MembersC.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\MembersC\bin\Debug\netcoreapp3.1\MembersC.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\MembersC\obj\Debug\netcoreapp3.1\MembersC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielPaiva\source\repos\C-MasterClass\MembersC\obj\Debug\netcoreapp3.1\MembersC.AssemblyInfoInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\MembersC\obj\Debug\netcoreapp3.1\MembersC.AssemblyInfo.cs
+C:\Users\DanielPaiva\source\repos\C-MasterClass\MembersC\obj\Debug\netcoreapp3.1\MembersC.csproj.CoreCompileInputs.cache
+C:\Users\DanielPaiva\source\repos\C-MasterClass\MembersC\obj\Debug\netcoreapp3.1\MembersC.dll
+C:\Users\DanielPaiva\source\repos\C-MasterClass\MembersC\obj\Debug\netcoreapp3.1\MembersC.pdb
+C:\Users\DanielPaiva\source\repos\C-MasterClass\MembersC\obj\Debug\netcoreapp3.1\MembersC.genruntimeconfig.cache

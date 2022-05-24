@@ -6,11 +6,6 @@ namespace MultiDimensionalArrays
     {
         static void Main(string[] args)
         {
-            // declare 2D array
-            string[,] matrix;
-
-            //declare 3D Array
-            int[,,] threeD;
 
             //two dimensional array
             int[,] array2D = new int[,]

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31912.275
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypesAndDecisions", "Course\DataTypesAndDecisions.csproj", "{884B5E3B-C151-4921-B4FC-78C8C251BC85}"
 EndProject
@@ -37,9 +37,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTables", "HashTables\Ha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionaries", "Dictionaries\Dictionaries.csproj", "{ED550C2B-6AF0-4E1F-BE07-62C0F4E07456}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks", "Stacks\Stacks.csproj", "{5843D0AF-B490-4BC5-8437-82E5EF7971B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stacks", "Stacks\Stacks.csproj", "{5843D0AF-B490-4BC5-8437-82E5EF7971B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues", "Qeues\Queues.csproj", "{DA58EE11-6141-47A4-9B66-9679F093D88D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queues", "Qeues\Queues.csproj", "{DA58EE11-6141-47A4-9B66-9679F093D88D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{4FA28D44-463C-4709-B1B0-2FA0CDC6A31D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualOverride", "VirtualOverride\VirtualOverride.csproj", "{CCF613E4-4CC7-42D4-8AE6-224B7132C51B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InherutancePost", "InherutancePost\InherutancePost.csproj", "{12E836D9-98B2-49AE-B5CD-7C6CF5801FB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +129,18 @@ Global
 		{DA58EE11-6141-47A4-9B66-9679F093D88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA58EE11-6141-47A4-9B66-9679F093D88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA58EE11-6141-47A4-9B66-9679F093D88D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA28D44-463C-4709-B1B0-2FA0CDC6A31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA28D44-463C-4709-B1B0-2FA0CDC6A31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA28D44-463C-4709-B1B0-2FA0CDC6A31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA28D44-463C-4709-B1B0-2FA0CDC6A31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF613E4-4CC7-42D4-8AE6-224B7132C51B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF613E4-4CC7-42D4-8AE6-224B7132C51B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF613E4-4CC7-42D4-8AE6-224B7132C51B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF613E4-4CC7-42D4-8AE6-224B7132C51B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E836D9-98B2-49AE-B5CD-7C6CF5801FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E836D9-98B2-49AE-B5CD-7C6CF5801FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E836D9-98B2-49AE-B5CD-7C6CF5801FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E836D9-98B2-49AE-B5CD-7C6CF5801FB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31424.327
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypesAndDecisions", "Course\DataTypesAndDecisions.csproj", "{884B5E3B-C151-4921-B4FC-78C8C251BC85}"
 EndProject
@@ -43,9 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queues", "Qeues\Queues.cspr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{4FA28D44-463C-4709-B1B0-2FA0CDC6A31D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualOverride", "VirtualOverride\VirtualOverride.csproj", "{CCF613E4-4CC7-42D4-8AE6-224B7132C51B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualOverride", "VirtualOverride\VirtualOverride.csproj", "{CCF613E4-4CC7-42D4-8AE6-224B7132C51B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InherutancePost", "InherutancePost\InherutancePost.csproj", "{12E836D9-98B2-49AE-B5CD-7C6CF5801FB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritancePost", "InherutancePost\InheritancePost.csproj", "{12E836D9-98B2-49AE-B5CD-7C6CF5801FB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

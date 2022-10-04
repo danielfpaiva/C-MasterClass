@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace InheritancePost
 {
-    internal class VideoPost : Post
+    class VideoPost : Post
     {
         protected bool isPlaying = false;
         protected int duration = 0;

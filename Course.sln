@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualOverride", "VirtualO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritancePost", "InherutancePost\InheritancePost.csproj", "{12E836D9-98B2-49AE-B5CD-7C6CF5801FB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceChallenge", "InheritanceChallenge\InheritanceChallenge.csproj", "{163C87B3-1D93-47F9-B17D-BE450DE66D6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceChallenge", "InheritanceChallenge\InheritanceChallenge.csproj", "{163C87B3-1D93-47F9-B17D-BE450DE66D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{D6CBAB73-063E-4C34-889D-8529435CBD03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{163C87B3-1D93-47F9-B17D-BE450DE66D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{163C87B3-1D93-47F9-B17D-BE450DE66D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{163C87B3-1D93-47F9-B17D-BE450DE66D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6CBAB73-063E-4C34-889D-8529435CBD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CBAB73-063E-4C34-889D-8529435CBD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CBAB73-063E-4C34-889D-8529435CBD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CBAB73-063E-4C34-889D-8529435CBD03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
